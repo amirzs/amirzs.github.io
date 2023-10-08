@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+#nav-list  li {
+    text-align: center;
+    border: 1px solid black;
+}
+
+div section {
+    margin: 10px;
+    padding: 10px;
+}
+#section-1{
+    background-color: gray;
+}
+
+#section-2 {
+    background-color: gray;
+}
+
+#section-3 {
+    background-color: gray;
+}
+
+ h3 {
+    margin-bottom: 15px;
+    color: white;
+  font-size: 50px;
+}
+
+#header-nav .navbar-brand {
+    position: relative;
+    left: 10px;
+
+}
+.container .navbar-header button .icon-bar{
+ 
+    border: 2px solid black;
+}
+.container .navbar-header button{
+    border: 4px solid black;
+    background-color: gray;
+     background-attachment: fixed;
+}
+.container .navbar-header{
+    background-color: lightgray;
+
+}
+div a{
+    color: black;
+    font-size: 20px;
+   font-weight: bolder;
+}
+
